@@ -68,7 +68,7 @@ export default class NavBar extends Component {
                 </ul>
               </li>
             </ul>
-            <Link to="/Login">
+            <Link to="/login">
               <button
                 type="button"
                 className="btn display-felx btn-primary fs-6"
